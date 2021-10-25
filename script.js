@@ -4,7 +4,7 @@ const ig = require('./instagram');
 
     await ig.initialize(); 
 
-    await ig.login('hp8mailfordevelopment@gmail.com','enola1234');
+    await ig.login('xyz@gmail.com','*********');
 
     await ig.likeTagsProcess(['cars', 'food']);
 

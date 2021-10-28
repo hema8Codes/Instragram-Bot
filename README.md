@@ -26,6 +26,8 @@ This is a simple script for an Instagram bot developed using the Node.js and Pup
 
 * Nodejs
 
+* Javascript
+
 * Dependencies/ libraries used : 
 
    * puppeteer
